@@ -5,6 +5,12 @@ Optimize your business, run AI predictions, and generate secure passwords — al
 
 ---
 
+Demo:
+https://www.youtube.com/watch?v=sP_oPROFEDc&feature=youtu.be
+
+
+---
+
 ## 🌟 Features
 - **Business Optimization** – Instantly find savings and efficiencies using quantum-inspired heuristics.
 - **AI Predictions** – Run guided predictions and see interactive charts for better decision-making.
