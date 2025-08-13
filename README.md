@@ -6,7 +6,8 @@ Optimize your business, run AI predictions, and generate secure passwords — al
 ---
 
 Demo:
-https://www.youtube.com/watch?v=sP_oPROFEDc&feature=youtu.be
+
+[![Watch the Demo](https://img.youtube.com/vi/sP_oPROFEDc/0.jpg)](https://www.youtube.com/watch?v=sP_oPROFEDc)
 
 
 ---
